@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+temp_*.jpg
+quiz_*.jpg
+student_assistant.db
